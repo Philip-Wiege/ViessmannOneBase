@@ -1,0 +1,12 @@
+{
+    "domain": "viessmann_onebase_local",
+    "name": "Viessmann OneBase Local",
+    "version": "0.0.1",
+    "codeowners": ["@Philip-Wiege"],
+    "dependencies": [],
+    "documentation": "https://github.com/Philip-Wiege/ViessmannOneBaseLocal",
+    "issue_tracker": "https://github.com/Philip-Wiege/ViessmannOneBaseLocal/issues",
+    "integration_type": "hub",
+    "iot_class": "local_polling",
+    "requirements": []
+}
