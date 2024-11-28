@@ -1,4 +1,4 @@
-# ViessmannOneBaseLocal
+# ViessmannOneBase
 A HomeAssistant integration for local communication with Viessmann OneBase devices. Communication is based on the open3e project.
 
 # Work in Progress!
