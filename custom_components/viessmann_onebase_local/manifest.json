@@ -1,7 +1,7 @@
 {
     "domain": "viessmann_onebase",
     "name": "Viessmann OneBase",
-    "version": "0.1.2",
+    "version": "0.1.6",
     "codeowners": ["@Philip-Wiege"],
     "dependencies": [],
     "documentation": "https://github.com/Philip-Wiege/ViessmannOneBase",
