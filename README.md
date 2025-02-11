@@ -5,4 +5,4 @@ A HomeAssistant integration for local communication with Viessmann OneBase devic
 This integration is not yet working and only work in progress!
 
 # Dependencies
-[ViessmannOneBaseServer](https://github.com/Philip-Wiege/ViessmannOneBaseServer)
+[OneBaseServer](https://github.com/Philip-Wiege/OneBaseServer)
